@@ -43,6 +43,7 @@ Require-Bundle: com.ibm.rational.test.lt.kernel,
   com.ibm.rational.test.rtw.webgui.playback,
   com.ibm.rational.test.rtw.webgui.execution,
   com.hcl.products.test.webgui.browser.driver.util,
-  com.fasterxml.jackson
+  com.fasterxml.jackson,
+  com.ibm.rational.test.lt.execution.http
 Automatic-Module-Name: Emerald-UI-Tests
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
