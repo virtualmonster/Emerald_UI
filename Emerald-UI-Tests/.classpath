@@ -55,5 +55,51 @@
 	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/workspace10.2.3/zippedExtLibs/x64_geckodriver_0_21.zip"/>
 	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/workspace10.2.3/zippedExtLibs/x64_geckodriver.zip"/>
 	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/workspace10.2.3/zippedExtLibs/x64_IEDriverServer.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/RPTKHelpers.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/mac_msedgedriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_msedgedriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/msedgedriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/operadriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_operadriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/mac_operadriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/chromedriver_2_27.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/chromedriver_2_29.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/chromedriver_2_34.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/chromedriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/geckodriver_0_15.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/geckodriver_0_18.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/geckodriver_0_21.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/geckodriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/IEDriverServer.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_chromedriver_2_27.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_chromedriver_2_29.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_chromedriver_2_34.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_geckodriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_geckodriver_0_15.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_geckodriver_0_18.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_geckodriver_0_21.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_x64_chromedriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_x64_chromedriver_2_27.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_x64_chromedriver_2_29.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_x64_chromedriver_2_34.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_x64_geckodriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_x64_geckodriver_0_15.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_x64_geckodriver_0_18.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/linux_x64_geckodriver_0_21.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/mac_chromedriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/mac_chromedriver_2_27.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/mac_chromedriver_2_29.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/mac_chromedriver_2_34.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/mac_geckodriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/mac_geckodriver_0_15.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/mac_geckodriver_0_18.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/mac_geckodriver_0_21.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/webuiplaybackextension-linux-jpm.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/webuiplaybackextension-windows-jpm.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/x64_geckodriver_0_15.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/x64_geckodriver_0_18.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/x64_geckodriver_0_21.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/x64_geckodriver.zip"/>
+	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/UI_Upgrade_Fix/zippedExtLibs/x64_IEDriverServer.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
